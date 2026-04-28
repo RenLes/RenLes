@@ -25,9 +25,24 @@ A single architectural primitive — *propose → bounded experiment → measure
 
 Cultural grounding matters: my agents are named in Fijian and mapped to function — Mata (eye → OCR), Taukei (owner → supplier matching), Veiqaravi (service → feedback), Sau (chief → orchestrator), Tau (hospitality → concierge), Adi (chiefly title → master). Not plumbing — product taste.
 
+## Live in production
+
+Seven products I have shipped and operate:
+
+| Product | URL | What it is |
+|---|---|---|
+| **RenLes Apps** | [renles.com](https://www.renles.com) | The studio. Domain-specific apps and AI agents for Fiji and the Pacific. |
+| **VATease** | [vatease.app](https://www.vatease.app) | Mobile-first input-VAT receipt capture for Fiji SMBs. OCR + supplier matching + FRCS-compliant quarterly export. |
+| **VATeasePos** | [pos.vatease.app](https://pos.vatease.app) | Output-VAT POS for two profiles in one app: professional services (A4 invoices) and micro-vendors (thermal receipts). M-Paisa / MyCash / Stripe. |
+| **Noqu Vale** | [noquvale.com](https://www.noquvale.com) | Website builder for Fiji and the Pacific. |
+| **Cyclone Certify** | [cyclonecertify.com](https://www.cyclonecertify.com) | Cyclone-resilience certification for Fiji homes. |
+| **Kontiki SmartBroker** | [kontikistockbroking.com](https://www.kontikistockbroking.com) | End-to-end IPO and brokerage app for clients and brokers. |
+| **Mansio Serena** | [mansioserena.com](https://www.mansioserena.com) | Live Airbnb portfolio operated through the Adi + Tau dual-agent stack (Pi 5 edge + cloud overseer). |
+
 ## More
 
 Selected private work (Heimdall paid app, VATease + 6-agent fine-tuned Qwen 2.5 32B fleet, Mansio Serena Adi+Tau Airbnb agents, Kontiki SmartBroker with 10 named personas, Vuvale family education AI) available on request.
 
 📫  qicatabuad@gmail.com
 🌏  Suva, Fiji — open to relocation
+🌐  [renles.com](https://www.renles.com)
